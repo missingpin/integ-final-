@@ -1,0 +1,37 @@
+C:\Users\Administrator\Documents\Bunyi_CarlAndrei\Draft Blog Post Manager\bin\Debug\net8.0-windows\Draft Blog Post Manager.exe
+C:\Users\Administrator\Documents\Bunyi_CarlAndrei\Draft Blog Post Manager\bin\Debug\net8.0-windows\Draft Blog Post Manager.deps.json
+C:\Users\Administrator\Documents\Bunyi_CarlAndrei\Draft Blog Post Manager\bin\Debug\net8.0-windows\Draft Blog Post Manager.runtimeconfig.json
+C:\Users\Administrator\Documents\Bunyi_CarlAndrei\Draft Blog Post Manager\bin\Debug\net8.0-windows\Draft Blog Post Manager.dll
+C:\Users\Administrator\Documents\Bunyi_CarlAndrei\Draft Blog Post Manager\bin\Debug\net8.0-windows\Draft Blog Post Manager.pdb
+C:\Users\Administrator\Documents\Bunyi_CarlAndrei\Draft Blog Post Manager\bin\Debug\net8.0-windows\BouncyCastle.Cryptography.dll
+C:\Users\Administrator\Documents\Bunyi_CarlAndrei\Draft Blog Post Manager\bin\Debug\net8.0-windows\Google.Protobuf.dll
+C:\Users\Administrator\Documents\Bunyi_CarlAndrei\Draft Blog Post Manager\bin\Debug\net8.0-windows\K4os.Compression.LZ4.dll
+C:\Users\Administrator\Documents\Bunyi_CarlAndrei\Draft Blog Post Manager\bin\Debug\net8.0-windows\K4os.Compression.LZ4.Streams.dll
+C:\Users\Administrator\Documents\Bunyi_CarlAndrei\Draft Blog Post Manager\bin\Debug\net8.0-windows\K4os.Hash.xxHash.dll
+C:\Users\Administrator\Documents\Bunyi_CarlAndrei\Draft Blog Post Manager\bin\Debug\net8.0-windows\MySql.Data.dll
+C:\Users\Administrator\Documents\Bunyi_CarlAndrei\Draft Blog Post Manager\bin\Debug\net8.0-windows\System.IO.Pipelines.dll
+C:\Users\Administrator\Documents\Bunyi_CarlAndrei\Draft Blog Post Manager\bin\Debug\net8.0-windows\System.Text.Encodings.Web.dll
+C:\Users\Administrator\Documents\Bunyi_CarlAndrei\Draft Blog Post Manager\bin\Debug\net8.0-windows\System.Text.Json.dll
+C:\Users\Administrator\Documents\Bunyi_CarlAndrei\Draft Blog Post Manager\bin\Debug\net8.0-windows\ZstdSharp.dll
+C:\Users\Administrator\Documents\Bunyi_CarlAndrei\Draft Blog Post Manager\bin\Debug\net8.0-windows\runtimes\win-x64\native\comerr64.dll
+C:\Users\Administrator\Documents\Bunyi_CarlAndrei\Draft Blog Post Manager\bin\Debug\net8.0-windows\runtimes\win-x64\native\gssapi64.dll
+C:\Users\Administrator\Documents\Bunyi_CarlAndrei\Draft Blog Post Manager\bin\Debug\net8.0-windows\runtimes\win-x64\native\k5sprt64.dll
+C:\Users\Administrator\Documents\Bunyi_CarlAndrei\Draft Blog Post Manager\bin\Debug\net8.0-windows\runtimes\win-x64\native\krb5_64.dll
+C:\Users\Administrator\Documents\Bunyi_CarlAndrei\Draft Blog Post Manager\bin\Debug\net8.0-windows\runtimes\win-x64\native\krbcc64.dll
+C:\Users\Administrator\Documents\Bunyi_CarlAndrei\Draft Blog Post Manager\bin\Debug\net8.0-windows\runtimes\browser\lib\net8.0\System.Text.Encodings.Web.dll
+C:\Users\Administrator\Documents\Bunyi_CarlAndrei\Draft Blog Post Manager\obj\Debug\net8.0-windows\Draft Blog Post Manager.csproj.AssemblyReference.cache
+C:\Users\Administrator\Documents\Bunyi_CarlAndrei\Draft Blog Post Manager\obj\Debug\net8.0-windows\Draft_Blog_Post_Manager.Form1.resources
+C:\Users\Administrator\Documents\Bunyi_CarlAndrei\Draft Blog Post Manager\obj\Debug\net8.0-windows\Draft_Blog_Post_Manager.Form2.resources
+C:\Users\Administrator\Documents\Bunyi_CarlAndrei\Draft Blog Post Manager\obj\Debug\net8.0-windows\Draft Blog Post Manager.csproj.GenerateResource.cache
+C:\Users\Administrator\Documents\Bunyi_CarlAndrei\Draft Blog Post Manager\obj\Debug\net8.0-windows\Draft Blog Post Manager.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\Documents\Bunyi_CarlAndrei\Draft Blog Post Manager\obj\Debug\net8.0-windows\Draft Blog Post Manager.AssemblyInfoInputs.cache
+C:\Users\Administrator\Documents\Bunyi_CarlAndrei\Draft Blog Post Manager\obj\Debug\net8.0-windows\Draft Blog Post Manager.AssemblyInfo.cs
+C:\Users\Administrator\Documents\Bunyi_CarlAndrei\Draft Blog Post Manager\obj\Debug\net8.0-windows\Draft Blog Post Manager.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Documents\Bunyi_CarlAndrei\Draft Blog Post Manager\obj\Debug\net8.0-windows\Draft Bl.DAFB5CBC.Up2Date
+C:\Users\Administrator\Documents\Bunyi_CarlAndrei\Draft Blog Post Manager\obj\Debug\net8.0-windows\Draft Blog Post Manager.dll
+C:\Users\Administrator\Documents\Bunyi_CarlAndrei\Draft Blog Post Manager\obj\Debug\net8.0-windows\refint\Draft Blog Post Manager.dll
+C:\Users\Administrator\Documents\Bunyi_CarlAndrei\Draft Blog Post Manager\obj\Debug\net8.0-windows\Draft Blog Post Manager.pdb
+C:\Users\Administrator\Documents\Bunyi_CarlAndrei\Draft Blog Post Manager\obj\Debug\net8.0-windows\Draft Blog Post Manager.genruntimeconfig.cache
+C:\Users\Administrator\Documents\Bunyi_CarlAndrei\Draft Blog Post Manager\obj\Debug\net8.0-windows\ref\Draft Blog Post Manager.dll
+C:\Users\Administrator\Documents\Bunyi_CarlAndrei\Draft Blog Post Manager\obj\Debug\net8.0-windows\Draft_Blog_Post_Manager.Form3.resources
+C:\Users\Administrator\Documents\Bunyi_CarlAndrei\Draft Blog Post Manager\obj\Debug\net8.0-windows\Draft_Blog_Post_Manager.Form4.resources
